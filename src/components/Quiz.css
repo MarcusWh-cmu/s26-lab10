@@ -73,3 +73,9 @@ Hint: You can use the className attribute for highlighting. */
     margin: 10px 0;
   }
   
+  /* Selected answer styles */
+  .selected {
+  cursor: pointer;
+  border: 2px solid #3498db; /* Blue border matching button color */
+  background-color: #e8f4f8; /* Light blue background */
+}
